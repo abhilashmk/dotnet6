@@ -46,11 +46,4 @@
 		<AdditionalFiles Include="..\stylecop.json" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <ProjectReference Include="..\PetroffSoft.TokenServer.BizModels\PetroffSoft.TokenServer.BizModels.csproj" />
-	  <ProjectReference Include="..\PetroffSoft.TokenServer.Mappers\PetroffSoft.TokenServer.Mappers.csproj" />
-	  <ProjectReference Include="..\PetroffSoft.TokenServer.Repositories\PetroffSoft.TokenServer.Repositories.csproj" />
-	  <ProjectReference Include="..\PetroffSoft.TokenServer.Resources\PetroffSoft.TokenServer.Resources.csproj" />
-	  <ProjectReference Include="..\PetroffSoft.TokenServer.Services\PetroffSoft.TokenServer.Services.csproj" />
-	</ItemGroup>
 </Project>
